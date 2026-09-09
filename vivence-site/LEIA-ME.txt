@@ -1,0 +1,15 @@
+VIVENCE ESTÉTICA AVANÇADA — NATAL/RN
+
+Abra index.html no navegador. Mantenha a pasta assets junto do HTML. Não requer instalação nem servidor.
+
+Estrutura:
+index.html — página
+assets/css/styles.css — aparência
+assets/js/main.js — tratamentos, janelas e configurações
+assets/images/ — imagens WebP otimizadas
+
+Esta é uma demonstração. Nome da profissional, formação, experiência, endereço, CEP, avaliações e condições comerciais são fictícios. A pessoa retratada não foi identificada como a profissional inventada. Não foi criado número de registro, CNPJ nem contato que possa pertencer a terceiros.
+
+Para ativar os contatos, preencha CLINICA em assets/js/main.js com os dados reais. O endereço para o mapa também é configurado ali. Revise o portfólio e substitua os dados de demonstração antes de publicar.
+
+As fotos dos tratamentos são ilustrativas, provenientes do Pexels. Os links de crédito estão nas janelas de cada tratamento. Logo e retrato originais foram fornecidos pelo usuário; a marca atual usa monograma em texto.
